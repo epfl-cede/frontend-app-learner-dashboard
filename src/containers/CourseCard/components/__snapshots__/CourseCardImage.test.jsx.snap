@@ -23,17 +23,17 @@ exports[`CourseCardImage snapshot renders clickable link course Image 1`] = `
     />
     <span
       className="course-card-verify-ribbon-container"
-      title="You're enrolled as a verified student"
+      title="You're enrolled as a premium student"
     >
       <Badge
         as="div"
         className="w-100"
         variant="success"
       >
-        Verified
+        Premium
       </Badge>
       <img
-        alt="ID Verified Ribbon/Badge"
+        alt="ID Premium Ribbon/Badge"
         src="test-file-stub"
       />
     </span>
@@ -53,17 +53,17 @@ exports[`CourseCardImage snapshot renders disabled link 1`] = `
     />
     <span
       className="course-card-verify-ribbon-container"
-      title="You're enrolled as a verified student"
+      title="You're enrolled as a premium student"
     >
       <Badge
         as="div"
         className="w-100"
         variant="success"
       >
-        Verified
+        Premium
       </Badge>
       <img
-        alt="ID Verified Ribbon/Badge"
+        alt="ID Premium Ribbon/Badge"
         src="test-file-stub"
       />
     </span>

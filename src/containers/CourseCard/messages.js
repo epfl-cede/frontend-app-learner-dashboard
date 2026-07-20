@@ -9,17 +9,17 @@ const messages = defineMessages({
   verifiedBanner: {
     id: 'learner-dash.courseCard.verifiedBanner',
     description: 'Course card verified banner',
-    defaultMessage: 'Verified',
+    defaultMessage: 'Premium',
   },
   verifiedHoverDescription: {
     id: 'learner-dash.courseCard.verifiedHoverDescription',
     description: 'Course card verified hover description',
-    defaultMessage: 'You\'re enrolled as a verified student',
+    defaultMessage: 'You\'re enrolled as a premium student',
   },
   verifiedBannerRibbonAlt: {
     id: 'learner-dash.courseCard.verifiedBannerRibbonAlt',
     description: 'Course card verified banner ribbon alt-text',
-    defaultMessage: 'ID Verified Ribbon/Badge',
+    defaultMessage: 'ID Premium Ribbon/Badge',
   },
 });
 
